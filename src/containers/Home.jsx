@@ -62,7 +62,7 @@ export class Home extends Component {
         errors.title = title || search ? null :'Title is required';
 
         if( !errors.title ) {
-            errors.title = !/[^a-zA-Z0-9 -?]/.test(title)? null : 'Please enter a valid title.'
+            errors.title = !/[^a-zA-Z0-9 .-?]/.test(title)? null : 'Please enter a valid title.'
         }
 
         this.setState({
