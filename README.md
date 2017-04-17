@@ -1,6 +1,6 @@
 # Embrace.io coding challenge
 
-- Create a React app that works with the OMDB Search API. This app must extract metadata from search results which allows he user to search for a specific movie or series title and return  results like when it was released. You can mark your results as favorite and view them in a separate page.
+- Create a React app that works with the OMDB Search API. This app must extract metadata from search results which allows the user to search for a specific movie or series title and return  results like when it was released. You can mark your results as favorite and view them in a separate page.
 
 
 ### Pre-requisite
